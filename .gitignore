@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+
+runs/
+dataset/
+
+images/
+annotations/
+labels/
+
+.venv/
+env/
+
+.DS_Store
