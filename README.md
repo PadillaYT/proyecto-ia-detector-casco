@@ -35,5 +35,11 @@ Ejecutar aplicación
 streamlit run app.py
 
 
+## Demo en línea
+
+Aplicación desplegada en Streamlit:
+
+https://proyecto-ia-detector-casco-ms3jsathvn7nfazbbhcyae.streamlit.app/
+
 Autor
 Cristian Camilo Padilla R.
